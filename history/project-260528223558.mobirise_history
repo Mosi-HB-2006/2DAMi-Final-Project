@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Corte Americano",
+    "name": "My Site",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "2kmoe5ze5j",
+    "mbrsiteDomain": "ktjot1jvkl",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -67,7 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "publishType": "mbrsite",
     "mbrsite": "mbrsite://%7B%22id%22%3A2579098%2C%22domain%22%3A%22jy6fsun3gn.mobirisesite.com%22%7D",
     "publishPath": "@PROJECT_PATH@"
